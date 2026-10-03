@@ -1,0 +1,32 @@
+# Binarios compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+curso-gin
+cmd/server/server
+
+# Archivos de test
+*.test
+
+# Coverage
+*.out
+coverage.html
+
+# Variables de entorno locales
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
